@@ -1,0 +1,14 @@
+"deathmatch"
+{
+	"base"		"sandbox"
+	"title"		"ⓗ's Deathmatch"
+	"maps"		"^gm_|^gmod_|^phys_|^dm_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+
+	}
+
+}
